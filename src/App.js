@@ -4,6 +4,7 @@ import { Home, About, Contact, Navigation } from './components';
 
 const App = () => (
   <div>
+    <p>starting project...</p>
     <Navigation />
   </div>
 );
